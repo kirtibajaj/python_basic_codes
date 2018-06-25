@@ -1,3 +1,3 @@
-git remote add origin https://github.com/kirtibajaj/python_kirti.git
-
-
+This is a repo regarding python learning
+from basic to ........
+there is no boundaries in learning
