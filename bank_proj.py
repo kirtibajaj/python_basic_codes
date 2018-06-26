@@ -47,7 +47,7 @@ def choices():
     print("\n\n\n\n")
     n=int(input("Enter your CHOICE : ".rjust(60)))
     return n
-import os
+
 ch=home()
 while ch!=3:
     if ch==1:
